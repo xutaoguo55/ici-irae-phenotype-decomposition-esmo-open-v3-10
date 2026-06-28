@@ -1,20 +1,19 @@
-table_type,item,name,n_reports_in_openfda,note
-ICI_agent,atezolizumab,atezolizumab,8217,
-ICI_agent,avelumab,avelumab,1052,
-ICI_agent,cemiplimab,cemiplimab,848,
-ICI_agent,dostarlimab,dostarlimab,536,
-ICI_agent,durvalumab,durvalumab,3834,
-ICI_agent,ipilimumab,ipilimumab,15336,
-ICI_agent,nivolumab,nivolumab,26040,
-ICI_agent,pembrolizumab,pembrolizumab,25532,
-ICI_agent,relatlimab,relatlimab,168,
-ICI_agent,tremelimumab,tremelimumab,1040,
-
-PT_family,cardiac,cardiac,3826,
-PT_family,colitis,colitis,22823,
-PT_family,endocrine,endocrine,15605,
-PT_family,hepatitis,hepatitis,6949,
-PT_family,nephritis,nephritis,3244,
-PT_family,neuromuscular,neuromuscular,3687,
-PT_family,pneumonitis,pneumonitis,12360,
-PT_family,skin,skin,14109,
+table_type,item,single_exact_term_reports,combined_alias_query_reports_openfda_total,note
+ICI_agent,atezolizumab,8217,31018,Exact ingredient name count differs from combined alias query count
+ICI_agent,avelumab,1052,3952,Exact ingredient name count differs from combined alias query count
+ICI_agent,cemiplimab,848,3127,Exact ingredient name count differs from combined alias query count
+ICI_agent,dostarlimab,536,2013,Exact ingredient name count differs from combined alias query count
+ICI_agent,durvalumab,3834,17032,Exact ingredient name count differs from combined alias query count
+ICI_agent,ipilimumab,15336,42014,Exact ingredient name count differs from combined alias query count
+ICI_agent,nivolumab,26040,94347,Exact ingredient name count differs from combined alias query count
+ICI_agent,pembrolizumab,25532,91643,Exact ingredient name count differs from combined alias query count
+ICI_agent,relatlimab,168,631,Exact ingredient name count differs from combined alias query count
+ICI_agent,tremelimumab,1040,2903,Exact ingredient name count differs from combined alias query count
+PT_family,cardiac,3826,,Sum of agent-family report counts for this family
+PT_family,colitis,22823,,Sum of agent-family report counts for this family
+PT_family,endocrine,15605,,Sum of agent-family report counts for this family
+PT_family,hepatitis,6949,,Sum of agent-family report counts for this family
+PT_family,nephritis,3244,,Sum of agent-family report counts for this family
+PT_family,neuromuscular,3687,,Sum of agent-family report counts for this family
+PT_family,pneumonitis,12360,,Sum of agent-family report counts for this family
+PT_family,skin,14109,,Sum of agent-family report counts for this family
